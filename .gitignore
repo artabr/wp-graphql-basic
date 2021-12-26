@@ -1,0 +1,9 @@
+# ignore everything in the root
+wp-content/
+wp-includes/
+wp-admin/
+wp-*
+index.php
+readme.html
+.htaccess
+xmlrpc.php
