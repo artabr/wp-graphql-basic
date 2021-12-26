@@ -1,8 +1,9 @@
 # ignore everything in the root
-wp-content/
-wp-includes/
-wp-admin/
-wp-*
+/wp-content/*
+!wp-content/uploads
+/wp-includes
+/wp-admin
+/wp-*.*
 index.php
 readme.html
 xmlrpc.php
