@@ -7,3 +7,4 @@ index.php
 readme.html
 .htaccess
 xmlrpc.php
+/vendor/
